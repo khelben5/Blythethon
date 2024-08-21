@@ -1,4 +1,4 @@
-﻿namespace Blythethon.Engine
+﻿namespace Engine
 
 module Say =
     let generateTextWithName name = $"Hello {name}!!"

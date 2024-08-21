@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blythethon.UI", "Blythethon.UI\Blythethon.UI.csproj", "{83FE2200-7B1A-49BB-B3D5-168BBDD68764}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Blythethon.Engine", "Blythethon.Engine\Blythethon.Engine.fsproj", "{5176C7D6-11CA-41A0-BB48-C6CB6C6A958F}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Engine", "Engine\Engine.fsproj", "{5176C7D6-11CA-41A0-BB48-C6CB6C6A958F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
