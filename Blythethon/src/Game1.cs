@@ -45,7 +45,7 @@ public class Game1 : Game
     {
         GraphicsDevice.Clear(Color.CornflowerBlue);
         _spriteBatch.Begin();
-        _spriteBatch.DrawString(_defaultFont, Say.generateTextWithName("Edu"), new(100, 100), Color.White);
+        _spriteBatch.DrawString(_defaultFont, Say.getElements("Hello darkness my old friend"), new(100, 100), Color.White);
         _spriteBatch.End();
         base.Draw(gameTime);
     }
